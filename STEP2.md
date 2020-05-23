@@ -52,7 +52,7 @@ Next while running the database you could run some tests, so:
 $ cd test
 $ nautilus .
 ```  
-You are free to look into the configs and test code as needed, but you can get started testing the default setup right away running: npm run or node filename.js
+You are free to look into the configs and test code as needed, but you can get started testing the default setup right away running: `npm run` or `node filename.js`
 
 A good example would be  
 ```
